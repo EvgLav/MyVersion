@@ -20,6 +20,18 @@ public class ClassesList {
         korneplodList = new ArrayList<>();
     }
 
+    public List<Car> getCarList() {
+        return carList;
+    }
+
+    public List<Book> getBookList() {
+        return bookList;
+    }
+
+    public List<Korneplod> getKorneplodList() {
+        return korneplodList;
+    }
+
     public void addCar() {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Введи модель");
