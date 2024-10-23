@@ -1,4 +1,4 @@
-package alex_maven.Types;
+package alex_maven.model;
 
 public class Korneplod implements Comparable<Korneplod> {
     private final String type;

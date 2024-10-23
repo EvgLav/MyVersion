@@ -1,4 +1,4 @@
-package alex_maven.Types;
+package alex_maven.model;
 
 import java.util.Comparator;
 

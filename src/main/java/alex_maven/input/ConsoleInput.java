@@ -1,11 +1,7 @@
 package alex_maven.input;
 
-import alex_maven.Types.Book;
-import alex_maven.Types.Korneplod;
 import alex_maven.list.ClassesList;
-import alex_maven.Types.Car;
 
-import java.util.Map;
 import java.util.Scanner;
 
 //Класс для ввода пользователя с консоли

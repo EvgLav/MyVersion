@@ -1,8 +1,8 @@
 package alex_maven.list;
 
-import alex_maven.Types.Book;
-import alex_maven.Types.Car;
-import alex_maven.Types.Korneplod;
+import alex_maven.model.Book;
+import alex_maven.model.Car;
+import alex_maven.model.Korneplod;
 
 import java.util.ArrayList;
 import java.util.List;
